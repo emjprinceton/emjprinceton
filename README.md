@@ -1,7 +1,7 @@
 ## About me:
 - 👋 Hi, I’m **@emjprinceton**
 - 👀 I’m interested in learning the latest coding technologies
-- 🌱 I’m currently learning GO, Python, SQL, HTML, Linux, PowerShell etc.
+- 🌱 I’m currently learning Go, Python, SQL, HTML, Linux, PowerShell etc.
 
 
 <!---
